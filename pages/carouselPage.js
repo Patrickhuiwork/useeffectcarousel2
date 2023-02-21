@@ -1,5 +1,5 @@
 import Carousel from "../components/carousel";
-import styles from '/styles/useEffectOne.module.css'
+import styles from '/styles/UseEffectOne.module.css'
 import Link from "next/link";
 
 
